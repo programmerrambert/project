@@ -1,4 +1,4 @@
-<div class="bg-gray-800 pt-3 pb-3 pl-5 pr-10">
+<div class="bg-gray-300 pt-3 pb-3 pl-5 pr-10">
   <!-- Tailwind CSS styling for the navbar -->
   <nav class="flex justify-self-start items-center">
     <!-- Home link (redirects to the same page) -->
